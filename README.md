@@ -22,8 +22,14 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Kushagra888/investmate.git
-2. **Clone the Repository**:
-
+2. **Load the Extension in Chrome**:
+   - Open Chrome and go to chrome://extensions/
+   - Enable "Developer mode" by toggling the switch in the top right corner.
+   - Click on "Load unpacked" and select the directory where you cloned the repository.
+3. **Usage**:
+   - Click on the InvestMate icon in your Chrome toolbar to open the popup.
+   - View real-time stock and cryptocurrency prices.
+   - Click the refresh icon to update the prices manually.
 
 
 
