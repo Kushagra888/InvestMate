@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Personal Finance Dashboard",
+    "version": "1.0",
+    "description": "A personal finance dashboard for tracking stocks and cryptocurrencies.",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/logo.png"
+      }
+    },
+    "icons": {
+      "16": "icons/logo.png"
+    }
+  }
+  
