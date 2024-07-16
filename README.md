@@ -56,6 +56,17 @@ Here's a brief overview of the key files and their purposes in the InvestMate pr
 - **`icons/logo.png`**: 
   - The icon used for the extension.
   - Placed in the `icons` folder and specified in the `manifest.json` file.
+ 
+
+## Customizing Stock Symbols
+
+InvestMate allows you to customize which stock is displayed by modifying the stock symbol in `popup.js`. To change the stock:
+
+1. Open `popup.js` in a text editor.
+2. Locate the line where the `symbol` variable is defined:
+   ```javascript
+   const symbol = 'GOOGL';
+   
 
 ## API Keys
 
