@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Personal Finance Dashboard",
+    "name": "InvestMate",
     "version": "1.0",
     "description": "A personal finance dashboard for tracking stocks and cryptocurrencies.",
     "permissions": [
